@@ -1,0 +1,14 @@
+{
+    "powers": [
+        "arda:wizard_staff",
+        "magicorigins:regeneration_when_still"
+    ],
+    "icon": {
+        "item": "minecraft:blaze_rod"
+    },
+    "order": 7,
+    "impact": 2,
+    "layer": "class",
+    "name": "Loremaster",
+    "description": "A student of the deep lore, bearing a staff of light. Hold the shadow at bay and recover your strength through stillness."
+}

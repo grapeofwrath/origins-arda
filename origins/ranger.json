@@ -1,0 +1,15 @@
+{
+    "powers": [
+        "monsterorigins:infinite_arrows",
+        "arda:keen_tracker",
+        "arda:wayfarer"
+    ],
+    "icon": {
+        "item": "minecraft:bow"
+    },
+    "order": 2,
+    "impact": 2,
+    "layer": "class",
+    "name": "Ranger",
+    "description": "A Dunadan-style wanderer of the wild lands. Your arrows fly true and reveal your prey, and the long road does not weary you."
+}

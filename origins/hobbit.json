@@ -1,0 +1,16 @@
+{
+    "powers": [
+        "magicorigins:silent",
+        "arda:second_breakfast",
+        "arda:fortunate_folk",
+        "monsterorigins:creeper_ally"
+    ],
+    "icon": {
+        "item": "minecraft:bread"
+    },
+    "order": 7,
+    "impact": 1,
+    "layer": "origin",
+    "name": "Hobbit (Halfling)",
+    "description": "Small, quiet folk who love good food and green country. Lucky, light-footed, and underestimated at everyone's peril."
+}

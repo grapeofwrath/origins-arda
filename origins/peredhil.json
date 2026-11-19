@@ -1,0 +1,16 @@
+{
+    "powers": [
+        "origins:tailwind",
+        "arda:eldar_body",
+        "arda:last_stand",
+        "fantasyorigins:elegy"
+    ],
+    "icon": {
+        "item": "minecraft:nether_star"
+    },
+    "order": 5,
+    "impact": 1,
+    "layer": "origin",
+    "name": "Peredhil (Half-elf)",
+    "description": "Of Elven and Mortal blood, like Elrond and Elros. Swift of step, free of sickness, and never without hope."
+}

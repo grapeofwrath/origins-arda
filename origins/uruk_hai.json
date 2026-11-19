@@ -1,0 +1,16 @@
+{
+    "powers": [
+        "origins:cat_vision",
+        "arda:bloodlust",
+        "arda:iron_stomach",
+        "origins:strong_arms"
+    ],
+    "icon": {
+        "item": "minecraft:rotten_flesh"
+    },
+    "order": 8,
+    "impact": 2,
+    "layer": "origin",
+    "name": "Uruk-hai (Orc)",
+    "description": "Great, sun-hardened Orcs bred for war. No weakness to daylight, a stomach of iron, and a fury that grows with every kill."
+}

@@ -1,0 +1,16 @@
+{
+    "powers": [
+        "origins:natural_armor",
+        "arda:delvers_instinct",
+        "arda:forge_hardened",
+        "fantasyorigins:fortune_increaser"
+    ],
+    "icon": {
+        "item": "minecraft:iron_pickaxe"
+    },
+    "order": 6,
+    "impact": 2,
+    "layer": "origin",
+    "name": "Naugrim (Dwarf)",
+    "description": "Stubborn children of Aul\u00eb, made to endure. Hard as the stone they delve, at home in the deep places and unmoved by fire."
+}

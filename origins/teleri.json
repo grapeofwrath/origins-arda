@@ -1,0 +1,16 @@
+{
+    "powers": [
+        "origins:aqua_affinity",
+        "origins:swim_speed",
+        "origins:water_vision",
+        "arda:falmari_lungs"
+    ],
+    "icon": {
+        "item": "minecraft:nautilus_shell"
+    },
+    "order": 4,
+    "impact": 2,
+    "layer": "origin",
+    "name": "Teleri (Sea Elf)",
+    "description": "Elves of the Havens and the shore, shipwrights who sing to the waves. The sea is a second home."
+}

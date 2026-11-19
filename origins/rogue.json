@@ -1,0 +1,14 @@
+{
+    "powers": [
+        "arda:backstab",
+        "arda:quiet_steps"
+    ],
+    "icon": {
+        "item": "minecraft:shears"
+    },
+    "order": 3,
+    "impact": 1,
+    "layer": "class",
+    "name": "Burglar",
+    "description": "A quiet, quick-fingered scout. Strike from behind for extra harm and slip along unseen on soft feet."
+}

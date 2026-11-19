@@ -1,0 +1,14 @@
+{
+    "powers": [
+        "arda:gentle_friend",
+        "moborigins:alpha_wolf"
+    ],
+    "icon": {
+        "item": "minecraft:bone"
+    },
+    "order": 8,
+    "impact": 1,
+    "layer": "class",
+    "name": "Beastfriend",
+    "description": "Like Beren and Luthien, a friend to wild things. Beasts do not trouble you and the wolves you tame grow strong."
+}

@@ -1,0 +1,16 @@
+{
+    "powers": [
+        "magicorigins:silent",
+        "fantasyorigins:increased_arrow_speed",
+        "arda:woodland_stride",
+        "origins:shulker_inventory"
+    ],
+    "icon": {
+        "item": "minecraft:oak_leaves"
+    },
+    "order": 3,
+    "impact": 2,
+    "layer": "origin",
+    "name": "Sindar (Wood Elf)",
+    "description": "Grey and green Elves of the forest realms. Light of foot, silent in the wood, and deadly with a bow."
+}

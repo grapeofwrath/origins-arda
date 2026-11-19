@@ -1,0 +1,14 @@
+{
+    "powers": [
+        "arda:first_strike",
+        "arda:cleave"
+    ],
+    "icon": {
+        "item": "minecraft:diamond_sword"
+    },
+    "order": 1,
+    "impact": 2,
+    "layer": "class",
+    "name": "Warrior",
+    "description": "A veteran soldier of the free peoples. Your first blow lands hard, and your blade carries through to the next foe."
+}

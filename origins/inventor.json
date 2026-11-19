@@ -1,0 +1,14 @@
+{
+    "powers": [
+        "arda:master_smith",
+        "arda:forge_hardened"
+    ],
+    "icon": {
+        "item": "minecraft:anvil"
+    },
+    "order": 10,
+    "impact": 1,
+    "layer": "class",
+    "name": "Smith",
+    "description": "A smith in the tradition of Aule and Feanor. Your own work mends itself, and the forge's heat barely harms you."
+}

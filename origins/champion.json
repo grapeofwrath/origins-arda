@@ -1,0 +1,14 @@
+{
+    "powers": [
+        "arda:shield_wall",
+        "fantasyorigins:strong_skin"
+    ],
+    "icon": {
+        "item": "minecraft:shield"
+    },
+    "order": 5,
+    "impact": 2,
+    "layer": "class",
+    "name": "Defender",
+    "description": "A shieldbearer sworn to protect. Hold a shield and you, and the friends beside you, are harder to harm."
+}

@@ -1,0 +1,14 @@
+{
+    "powers": [
+        "magicorigins:potion_master",
+        "moborigins:better_potions"
+    ],
+    "icon": {
+        "item": "minecraft:brewing_stand"
+    },
+    "order": 9,
+    "impact": 1,
+    "layer": "class",
+    "name": "Herbalist",
+    "description": "A gatherer of herbs and brewer of draughts. Your potions are stronger and last longer."
+}

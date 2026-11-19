@@ -1,0 +1,16 @@
+{
+    "powers": [
+        "origins:cat_vision",
+        "arda:eldar_body",
+        "arda:eldar_lore",
+        "fantasyorigins:chime"
+    ],
+    "icon": {
+        "item": "minecraft:amethyst_shard"
+    },
+    "order": 2,
+    "impact": 1,
+    "layer": "origin",
+    "name": "Noldor (High Elf)",
+    "description": "The Deep Elves who beheld the Light of the Two Trees. Keen of sight, untouched by sickness, and masters of lore and craft."
+}

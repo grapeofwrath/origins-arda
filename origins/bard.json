@@ -1,0 +1,14 @@
+{
+    "powers": [
+        "arda:song_of_valor",
+        "arda:silver_tongue"
+    ],
+    "icon": {
+        "item": "minecraft:goat_horn"
+    },
+    "order": 4,
+    "impact": 2,
+    "layer": "class",
+    "name": "Minstrel",
+    "description": "Song was the first power in the world. Sound a horn to lift your companions, and talk your way to better prices."
+}

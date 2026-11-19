@@ -1,0 +1,11 @@
+{
+    "powers": [],
+    "icon": {
+        "item": "minecraft:oak_log"
+    },
+    "order": 1,
+    "impact": 0,
+    "layer": "size",
+    "name": "Normal Size",
+    "description": "Stand at the ordinary height of your people."
+}

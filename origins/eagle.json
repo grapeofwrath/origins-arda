@@ -1,0 +1,16 @@
+{
+    "powers": [
+        "origins:elytra",
+        "moborigins:rideable_creature",
+        "origins:aerial_combatant",
+        "origins:fall_immunity"
+    ],
+    "icon": {
+        "item": "minecraft:feather"
+    },
+    "order": 9,
+    "impact": 3,
+    "layer": "origin",
+    "name": "Great Eagle",
+    "description": "Of the great eagles of Thorondor, lords of the sky. You can take wing, carry a rider upon your back, strike hard from the air, and never fear a fall."
+}

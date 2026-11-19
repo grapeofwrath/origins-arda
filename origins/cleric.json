@@ -1,0 +1,14 @@
+{
+    "powers": [
+        "arda:kings_hands",
+        "moborigins:flower_power"
+    ],
+    "icon": {
+        "item": "minecraft:glistering_melon_slice"
+    },
+    "order": 6,
+    "impact": 1,
+    "layer": "class",
+    "name": "Healer",
+    "description": "The hands of the king are the hands of a healer. Cure the poisoned and wounded with a touch, and thrive among flowers."
+}

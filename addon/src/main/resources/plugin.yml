@@ -1,0 +1,7 @@
+name: Arda-Origins
+version: 1.0.0
+main: dev.arda.origins.ArdaOrigins
+api-version: "1.21"
+description: Tolkien-themed abilities for Origins-Reborn
+depend:
+  - Origins-Reborn

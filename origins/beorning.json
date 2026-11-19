@@ -1,0 +1,16 @@
+{
+    "powers": [
+        "arda:moonbound",
+        "magicorigins:kill_boost",
+        "fantasyorigins:double_health",
+        "moborigins:queen_bee"
+    ],
+    "icon": {
+        "item": "minecraft:honey_bottle"
+    },
+    "order": 10,
+    "impact": 3,
+    "layer": "origin",
+    "name": "Beorning (Skin-changer)",
+    "description": "Descended from Beorn, who walks as man by day and as a great bear by night. Stronger under the moon, vast of body, hardened by each victory, and a friend to bees."
+}
